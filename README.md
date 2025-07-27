@@ -24,7 +24,7 @@ Name- Harshita Singh
   - 🥉 **Finalist** – *Subway Cypher* at **Gravitas**, VIT - Designed a software for Tictactoe game using **React.js**- The Tic-Tac-Toe Game is a simple and interactive two-player game built using React.js. It allows two users to play against each other in turns on a 3x3 grid, with real-time updates, win detection, and draw handling. The game showcases fundamental concepts of modern frontend development including state management, component reusability, and event handling in React.
     
   - 🏆 **Shortlisted** – *DevJams’24* by **Google Developer Student Clubs (GDSC-VIT)**  
-    🔗 [https://www.devjams.dscvit.com](https://www.devjams.gdscvit.com)- Designed a software for **Smart Campus Navigator**- Navigating a large college or university campus—especially for new students, guests, orevent attendees—can be confusing and time-consuming. This often leads to missed lectures, late submissions, and general frustration using Frontend like **HTML,CSS,JAVASCRIPT** and Backend using **Node.js,Express.js,Next.js.**
+    🔗 [https://www.devjams.gdscvit.com](https://www.devjams.gdscvit.com)- Designed a software for **Smart Campus Navigator**- Navigating a large college or university campus—especially for new students, guests, orevent attendees—can be confusing and time-consuming. This often leads to missed lectures, late submissions, and general frustration using Frontend like **HTML,CSS,JAVASCRIPT** and Backend using **Node.js,Express.js,Next.js.**
     
       <img width="1168" height="554" alt="Screenshot 2025-07-27 235737" src="https://github.com/user-attachments/assets/5816e990-8888-40dc-b02c-21fabe5799ff" />
 

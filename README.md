@@ -17,8 +17,7 @@ Name- Harshita Singh
 **- Achievement:-**
 - 🔭 I’ve participated in top national-level hackathons and internships:
   - 🥇 **Finalist** – *CATERPILLAR Hackathon* (CATERPILLAR Company)
-  -         <img width="1462" height="850" alt="Screenshot 2025-07-28 000407" src="https://github.com/user-attachments/assets/fe1eae92-7f61-467f-9cd3-75583a762cd0" />
-  -      
+           <img width="1462" height="850" alt="Screenshot 2025-07-28 000407" src="https://github.com/user-attachments/assets/ad33a689-c194-470b-ba66-10da42bce941" />
 
   - 🥈 **Finalist** – *Smart India Hackathon*
   - 🥉 **Finalist** – *Subway Cypher* at **Gravitas**, VIT
